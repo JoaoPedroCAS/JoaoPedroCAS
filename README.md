@@ -6,10 +6,9 @@ I have a degree in computer engineering and currently my focus is studying data 
 I believe that through research we can grow and be relevant within the IT area, that's why I'm studying to get a master's degree at a good institution.
 My free time is spent playing video games and reading fiction books!
 
-<p align="left">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/joaopedrocads/))
-  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtp.e/)
-  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/joaopedrocads/))
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtp.e/)
+
 <!--
 **JoaoPedroCAS/JoaoPedroCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
