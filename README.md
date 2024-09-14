@@ -62,7 +62,7 @@ Fundamentos de LoRaWAN – Teoria e Prática
 
 Cite: A. F. Pastório, J. Rossato, J. P. C. A. Sá, F. A. Spanhol, L. A. Rodrigues, E. T. Camargo DOI: https://doi.org/10.5753/sbc.8898.6.2
 
-<\details>
+</details>
 
 <!--
 **JoaoPedroCAS/JoaoPedroCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
