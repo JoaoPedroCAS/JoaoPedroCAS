@@ -36,13 +36,18 @@ My free time is spent playing video games and reading fiction books!
 
 <details>
 <summary><h2> My Coding Journey </h2></summary>
-  I began my academic journey in 2019, pursuing a Bachelor's degree in Computer Engineering at the Federal Technological University of Paraná (UTFPR), and I am on track to graduate in 2024. Throughout my time at UTFPR, I have actively engaged in innovative projects that have sharpened my technical skills and deepened my passion for research, especially in the fields of embedded systems and machine learning.
+
+I began my academic journey in 2019, pursuing a Bachelor's degree in Computer Engineering at the Federal Technological University of Paraná (UTFPR), and I am on track to graduate in 2024. Throughout my time at UTFPR, I have actively engaged in innovative projects that have sharpened my technical skills and deepened my passion for research, especially in the fields of embedded systems and machine learning.
+
 
 One of the most impactful projects I contributed to involved the development of an embedded system for monitoring air quality in urban areas using long-range networks (LoRa). This project addressed the need for real-time environmental monitoring, allowing for more informed decision-making regarding air quality. It was recognized for its innovation and presented at the 17th edition of the ERRC (Regional School of Computer Networks), a leading regional conference on computer networks and distributed systems.
 
+
 In another notable project, I worked on a machine learning-based tool designed to classify images of skin lesions, utilizing concepts such as neural networks and dynamic selection algorithms. This project, which has potential applications in healthcare, was presented at the 2024 edition of SBCAS (Brazilian Symposium on Computing Applied to Health), a prominent forum for scientific dissemination in the health informatics field.
 
-As I approach graduation, I am actively pursuing opportunities to further my academic career through a Master's degree. My current research interest lies in understanding the mechanics of neural networks in texture classification and exploring the impact of removing layers on model performance metrics. I am particularly interested in how these insights can enhance the efficiency and accuracy of neural networks in complex tasks such as image classification.
+
+I am actively pursuing opportunities to further my academic career through a Master's degree. My current research interest lies in understanding the mechanics of neural networks in texture classification and exploring the impact of removing layers on model performance metrics. 
+
 </details>
 
 <!--
