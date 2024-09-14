@@ -9,7 +9,7 @@ My free time is spent playing video games and reading fiction books!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEUUSERNAME/](https://www.linkedin.com/in/joaopedrocads/))
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jtp.e/)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:joao.p.c.a.sa@outlook.com)
-![Stars](https://img.shields.io/github/stars/:user)
+![Stars](https://img.shields.io/github/stars/JoaoPedroCAS)
 
 
 
