@@ -1,6 +1,6 @@
 # 🎮 👨‍💻 João Pedro C. A. de Sá
 
-** `AI Enthusiast` **
+`AI Enthusiast`
 
 I have a degree in computer engineering and currently my focus is studying data science and AI.
 I believe that through research we can grow and be relevant within the IT area, that's why I'm studying to get a master's degree at a good institution.
