@@ -50,6 +50,18 @@ I am actively pursuing opportunities to further my academic career through a Mas
 
 </details>
 
+<details>
+<summary><h2> Published Articles </h2></summary>
+
+Aplicação de Redes de Aprendizado Profundo e Algoritmos de Aprendizado de Máquina para Classificar Imagens de Câncer de Pele
+Cite: SÁ, João P. C. A. de; ENSINA, Leandro A.; JERONYMO, Daniel C.. Aplicação de Redes de Aprendizado Profundo e Algoritmos de Aprendizado de Máquina para Classificar Imagens de Câncer de Pele. In: SIMPÓSIO BRASILEIRO DE COMPUTAÇÃO APLICADA À SAÚDE (SBCAS), 24. , 2024, Goiânia/GO. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2024 . p. 651-656. ISSN 2763-8952. DOI: https://doi.org/10.5753/sbcas.2024.2230.
+
+
+Fundamentos de LoRaWAN – Teoria e Prática
+Cite: A. F. Pastório, J. Rossato, J. P. C. A. Sá, F. A. Spanhol, L. A. Rodrigues, E. T. Camargo DOI: https://doi.org/10.5753/sbc.8898.6.2
+
+<\details>
+
 <!--
 **JoaoPedroCAS/JoaoPedroCAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
